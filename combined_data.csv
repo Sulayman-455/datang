@@ -1,0 +1,131 @@
+Region,Year,Life Expectancy,Employment Rate,GDHI
+East,2012,65,75,16957
+East,2013,66,75,17588
+East,2014,65,76,18364
+East,2015,65,77,19156
+East,2016,65,77,19543
+East,2017,65,78,19911
+East,2018,64,78,20542
+East,2019,65,79,21250
+East,2020,65,78,21118
+East,2021,64,78,21656
+East Midlands,2012,63,71,14403
+East Midlands,2013,63,72,14952
+East Midlands,2014,63,74,15452
+East Midlands,2015,63,74,16269
+East Midlands,2016,63,75,16298
+East Midlands,2017,63,75,16674
+East Midlands,2018,62,75,17183
+East Midlands,2019,62,77,17754
+East Midlands,2020,62,76,18025
+East Midlands,2021,61,75,18479
+England,2012,64,71,22698
+England,2013,64,72,23906
+England,2014,64,73,24890
+England,2015,64,74,26652
+England,2016,64,75,27099
+England,2017,64,75,27599
+England,2018,64,76,29104
+England,2019,64,76,29719
+England,2020,64,75,29245
+England,2021,63,75,30662
+London,2012,64,68,26787
+London,2013,64,70,28641
+London,2014,64,72,30130
+London,2015,64,72,32291
+London,2016,64,73,32932
+London,2017,64,74,33738
+London,2018,64,75,35715
+London,2019,64,75,36631
+London,2020,64,75,35995
+London,2021,64,75,37937
+North East,2012,60,75,14302
+North East,2013,60,67,14671
+North East,2014,60,67,15040
+North East,2015,60,69,15648
+North East,2016,60,69,15852
+North East,2017,60,71,16167
+North East,2018,60,72,16612
+North East,2019,59,72,17118
+North East,2020,60,71,17337
+North East,2021,59,72,17723
+North West,2012,58,71,14342
+North West,2013,62,70,14748
+North West,2014,61,72,15131
+North West,2015,62,72,15802
+North West,2016,62,73,15909
+North West,2017,62,74,16366
+North West,2018,62,74,16903
+North West,2019,62,75,17487
+North West,2020,62,75,17654
+North West,2021,62,74,18138
+Northern Ireland,2012,62,75,14313
+Northern Ireland,2013,61,74,14900
+Northern Ireland,2014,62,74,15263
+Northern Ireland,2015,62,74,15682
+Northern Ireland,2016,62,76,15893
+Northern Ireland,2017,62,78,16333
+Northern Ireland,2018,62,77,16780
+Northern Ireland,2019,65,78,17286
+Northern Ireland,2020,66,79,17318
+Northern Ireland,2021,65,80,17916
+Scotland,2012,65,78,15907
+Scotland,2013,64,78,16559
+Scotland,2014,64,69,16989
+Scotland,2015,64,70,17413
+Scotland,2016,64,69,17447
+Scotland,2017,65,71,17950
+Scotland,2018,65,73,18401
+Scotland,2019,64,73,19797
+Scotland,2020,65,75,19742
+Scotland,2021,65,75,19885
+South East,2012,66,75,17989
+South East,2013,66,76,18777
+South East,2014,66,76,19170
+South East,2015,66,77,20312
+South East,2016,66,78,20768
+South East,2017,66,79,21363
+South East,2018,66,78,22119
+South East,2019,66,79,22771
+South East,2020,66,79,22396
+South East,2021,65,78,23156
+South West,2012,65,73,16569
+South West,2013,65,75,17197
+South West,2014,65,69,17883
+South West,2015,65,69,18993
+South West,2016,65,70,19226
+South West,2017,65,71,19660
+South West,2018,65,72,20547
+South West,2019,65,72,21203
+South West,2020,62,75,20844
+South West,2021,62,75,21755
+Wales,2012,62,73,14141
+Wales,2013,62,74,14438
+Wales,2014,62,69,14870
+Wales,2015,62,71,15406
+Wales,2016,62,72,15573
+Wales,2017,62,73,16113
+Wales,2018,62,75,16843
+Wales,2019,61,75,17274
+Wales,2020,63,73,17626
+Wales,2021,63,74,18044
+West Midlands,2012,63,69,13127
+West Midlands,2013,64,69,13509
+West Midlands,2014,64,70,14052
+West Midlands,2015,63,71,14612
+West Midlands,2016,63,72,14878
+West Midlands,2017,63,72,15081
+West Midlands,2018,63,74,15485
+West Midlands,2019,62,75,15922
+West Midlands,2020,61,74,16120
+West Midlands,2021,62,74,16607
+Yorkshire and The Humber,2012,62,69,14554
+Yorkshire and The Humber,2013,61,71,14985
+Yorkshire and The Humber,2014,62,72,15517
+Yorkshire and The Humber,2015,61,72,16211
+Yorkshire and The Humber,2016,62,73,16308
+Yorkshire and The Humber,2017,62,73,16807
+Yorkshire and The Humber,2018,62,74,17476
+Yorkshire and The Humber,2019,61,74,17984
+Yorkshire and The Humber,2020,60,73,18168
+Yorkshire and The Humber,2021,60,73,18648
